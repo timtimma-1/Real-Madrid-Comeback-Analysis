@@ -1,6 +1,6 @@
 # How Real Madrid manufactures space through movement and positioning to orchestrate comebacks
 
-As part of Soccermatics-Project-3
+As part of Soccermatics Project 3
 
 
 This project focuses on how Real Madrid creates and exploits space. 
